@@ -1,0 +1,14 @@
+C:\Users\Sergio\Desktop\program\GOLProject\obj\Debug\GOLProject.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\program\GOLProject\obj\Debug\GOLProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\Desktop\program\GOLProject\obj\Debug\GOLProject.csproj.GenerateResource.cache
+C:\Users\Sergio\Desktop\program\GOLProject\obj\Debug\GOLProject.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\program\GOLProject\obj\Debug\GOLProject.Form1.resources
+C:\Users\Sergio\Desktop\program\GOLProject\obj\Debug\GOLProject.OptionsDialog.resources
+C:\Users\Sergio\Desktop\program\GOLProject\obj\Debug\GOLProject.Properties.Resources.resources
+C:\Users\Sergio\Desktop\program\GOLProject\obj\Debug\GOLProject.RunToDialog.resources
+C:\Users\Sergio\Desktop\program\GOLProject\obj\Debug\GOLProject.SeedDialog.resources
+C:\Users\Sergio\Desktop\program\GOLProject\bin\Debug\GOLProject.exe.config
+C:\Users\Sergio\Desktop\program\GOLProject\bin\Debug\GOLProject.exe
+C:\Users\Sergio\Desktop\program\GOLProject\bin\Debug\GOLProject.pdb
+C:\Users\Sergio\Desktop\program\GOLProject\obj\Debug\GOLProject.exe
+C:\Users\Sergio\Desktop\program\GOLProject\obj\Debug\GOLProject.pdb
